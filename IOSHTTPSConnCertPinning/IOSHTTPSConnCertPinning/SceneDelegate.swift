@@ -2,9 +2,6 @@
 //  SceneDelegate.swift
 //  IOSHTTPSConnCertPinning
 //
-//  Created by Samiran Saha on 03/05/20.
-//  Copyright © 2020 Samiran Saha. All rights reserved.
-//
 
 import UIKit
 

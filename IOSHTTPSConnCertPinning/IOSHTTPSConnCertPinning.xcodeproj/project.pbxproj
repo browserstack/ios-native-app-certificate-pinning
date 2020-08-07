@@ -108,7 +108,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1140;
 				LastUpgradeCheck = 1140;
-				ORGANIZATIONNAME = "Samiran Saha";
+				ORGANIZATIONNAME = "BrowserStack";
 				TargetAttributes = {
 					74637CF3245F0EA700DC871F = {
 						CreatedOnToolsVersion = 11.4;
